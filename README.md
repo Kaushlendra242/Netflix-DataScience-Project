@@ -4,6 +4,13 @@
 **Author: Kaushlendra Pratap Singh
 Tools: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, NLP (TF-IDF), Streamlit**
 
+**🚀 Live Streamlit App**
+
+Try the live recommendation system here:
+
+👉 🔗 Streamlit App:
+https://netflix-datascience-project-datascientist-kpsingh.streamlit.app/
+
 
 **🌟 Project Overview**
 
